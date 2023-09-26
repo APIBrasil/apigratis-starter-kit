@@ -2,6 +2,9 @@
 
 Esse repositório tem como ideia ajudar usuários da plataforma APIBrasil a iniciar seus projetos
 
+## Faça seu cadastro
+<a href="https://apibrasil.io" target="_blank"> https://apibrasil.io </a>
+
 ## Como baixar
 ```bash
 git clone https://github.com/APIBrasil/apigratis-starter-kit your-project
