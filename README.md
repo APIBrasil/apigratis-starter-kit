@@ -5,9 +5,13 @@ Esse repositório tem como ideia ajudar usuários da plataforma APIBrasil a inic
 ## Faça seu cadastro
 <a href="https://apibrasil.io" target="_blank"> https://apibrasil.io </a>
 
+## Requerimentos
+- Node 18+
+- Yarn
+
 ## Como baixar
 ```bash
-git clone https://github.com/APIBrasil/apigratis-starter-kit your-project
+git clone https://github.com/APIBrasil/apigratis-starter-kit.git your-project
 ```
 
 ## Como instalar
