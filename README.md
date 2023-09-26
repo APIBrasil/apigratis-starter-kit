@@ -33,3 +33,5 @@ Essa tela inicial do painel, onde você pode organizar seus itens
 Nessa tela você pode ver um exemplo de como obter as instâncias da APIBrasil
 <img src="https://i.imgur.com/m3bKDj3.png" alt="Screen Instancias" />
 
+### Mais componentes
+<a href="https://horizon-ui.com" target="_blank"> https://horizon-ui.com </a>
